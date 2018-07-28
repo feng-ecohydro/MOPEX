@@ -1,0 +1,12 @@
+This directory contains files listing hydrologic ratios
+for each of 438 basins with adequate 
+precipitation gage density 
+
+Column	Defintion
+  1  -  USGS basin ID
+  2  -  Longitude
+  3  -  Latitude
+  4  -  Area (sq. mi.)
+  5  -  Annual precipitation/annual potential evaporation ratio
+  6  -  Annual runoff/annual precipiation ratio
+  7  -  Annual evaporation/annual potential evaporation ratio

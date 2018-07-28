@@ -1,0 +1,16 @@
+This directory contains files listing monthly PE Climatic
+values for each basin with adequate precipitation gage density. 
+
+The PE values are based on NOAA Freewater evaporation Atlas.
+
+Column	Defintion
+  1  -  USGS basin ID
+  2  -  Longitude
+  3  -  Latitude
+  4  -  Area (sq. mi.)
+  5-16 - PE monthly values (in mm)
+  
+Farnsworth, R.K., E. S. Thompson, and E.L. Peck, 1982, 
+Evaporation Atlas for the contiguous 48 United States, 
+NOAA Technical Report, NWS 33, 
+Washington, DC, 26p

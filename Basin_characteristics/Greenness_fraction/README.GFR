@@ -1,0 +1,10 @@
+This directory contains files listing monthly greenness
+fraction for each of 438 basins where adequate 
+precipitation gage density exists.
+
+Column	Defintion
+  1  -  USGS basin ID
+  2  -  Longitude
+  3  -  Latitude
+  4  -  Area (sq. mi.)
+  5-16 - data values in percentage (0-100)

@@ -1,0 +1,42 @@
+The fractional spatial coverage of each of the 16 USDA soil type 
+(12 soil, 4 other category) was compiled for each basin.  
+The analysis used 1-km gridded maps of USDA soil texture class for 
+each of 11 soil layers.  The 1km gridded data sets were produced by 
+Miller (1999) based on STATSCO polygon representation of soil texture.  
+Table 5 provides the USDA soil classification definitions.
+
+Table 5 - The soil texture classification definitions:
+_____________________________________________________
+     1      S       Sand
+     2      LS      Loamy sand
+     3      SL      Sandy loam
+     4      SIL     Silt loam
+     5      SI      Silt
+     6      L       Loam
+     7      SCL     Sandy clay loam
+     8      SICL    Silty clay loam
+     9      CL      Clay loam
+    10      SC      Sandy clay
+    11      SIC     Silty clay
+    12      C       Clay
+    13      OM      Organic materials
+    14      W       Water
+    15      BR      Bedrock
+    16      O       Other
+_____________________________________________________
+
+This directory contains the following files.  Each contains one record 
+for each of the 438 MOPEX basins
+
+S0_10.438 - 0-10cm fractional distribution of 16 soil texture classes
+S0_100.438 - 0-100cm fractional distribution of 16 soil texture classes
+S0_150.438 - 0-150cm fractional distribution of 16 soil texture classes
+S0_150DM.438 - 0-150cm dominant soil texture class
+S0_250DM.438 - 0-250cm dominant soil texture class
+S100_150.438 - 100-150cm fractional distribution of 16 soil texture classes
+S10_40.438 - 10-40cm fractional distribution of 16 soil texture classes
+S40_100.438 - 40-100cm fractional distribution of 16 soil texture classes
+
+Miller,D.A. and R.A. White, 1999: A Conterminous United States multi layer 
+soil characteristics data set for regional climate and hydrology modeling. 
+Earth Interactions, 2, (available at http://EarthInteractions.org).
