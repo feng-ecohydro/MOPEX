@@ -1,0 +1,14 @@
+This directory contains files listing Sacrament model parameter
+values for each basin with adequate precipitation gage density.
+
+Column	Defintion
+  1  -  USGS basin ID
+  2  -  Longitude
+  3  -  Latitude
+  4  -  Area (sq. mi.)
+  5  -  porosity
+  6  -  upper limit of unsaturated water content
+  7  -  wilting point
+  8  -  slope of water retention function
+  9  -  n/a
+ 10  -  saturated hydraulic conductivity
